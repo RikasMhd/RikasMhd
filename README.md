@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rikas</h1>
 <h3 align="center">A Undergraduate Student in University of Jaffna,SriLanka.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikasmhd&label=Profile%20views&color=0e75b6&style=flat" alt="rikasmhd" /> </p>
+
 - 🌱 I’m currently learning **JavaScript**
+
+- 📝 I regularly write articles on [https://medium.com/@rrikas341](https://medium.com/@rrikas341)
 
 - 📫 How to reach me **rrikas341@gmail.com**
 
@@ -11,8 +15,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/rikasmhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikasmhd" height="30" width="40" /></a>
 <a href="https://fb.com/mhdrikas20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdrikas20" height="30" width="40" /></a>
+<a href="https://instagram.com/rikas_mhd20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikas_mhd20" height="30" width="40" /></a>
+<a href="https://medium.com/@rrikas341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rrikas341" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rikasrikas5336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rikasrikas5336" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rrikas341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rrikas341" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rikasm2m2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rikasm2m2b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
