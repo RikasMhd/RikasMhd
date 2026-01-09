@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rikas</h1>
-<h3 align="center">A Undergraduate Student in University of Jaffna,SriLanka.</h3>
+<h3 align="center">A Undergraduate Student in Computer Science(BSc) at University of Jaffna,SriLanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikasmhd&label=Profile%20views&color=0e75b6&style=flat" alt="rikasmhd" /> </p>
 
