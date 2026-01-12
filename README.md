@@ -7,9 +7,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rrikas341](https://medium.com/@rrikas341)
 
-- 📫 How to reach me **rrikas341@gmail.com**
+- 📫 How to reach me **rrikas341@gmail.com || +94 0 778 741 747**
 
-- ⚡ Fun fact **Call Me Rks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
