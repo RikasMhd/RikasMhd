@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikasmhd&label=Profile%20views&color=0e75b6&style=flat" alt="rikasmhd" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript,Python**
 
 - 📝 I regularly write articles on [https://medium.com/@rrikas341](https://medium.com/@rrikas341)
 
