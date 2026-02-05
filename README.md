@@ -1,94 +1,36 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Mohamed Isfak</h1>
-<h3 align="center">Computer Science Undergraduate | AI/ML & Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rikas</h1>
+<h3 align="center">Computer Science Undergraduate || Interesting on AI/ML</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=AI+%26+ML+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Always+Learning+New+Things" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikasmhd&label=Profile%20views&color=0e75b6&style=flat" alt="rikasmhd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikasmhd" alt="rikasmhd" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 📝 I regularly write articles on [https://medium.com/@rrikas341](https://medium.com/@rrikas341)
+
+- 📫 How to reach me **rrikas341@gmail.com || +94 778 741 74**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rikasmhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikasmhd" height="30" width="40" /></a>
+<a href="https://fb.com/mhdrikas20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhdrikas20" height="30" width="40" /></a>
+<a href="https://instagram.com/rikas_mhd20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikas_mhd20" height="30" width="40" /></a>
+<a href="https://medium.com/@rrikas341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rrikas341" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rikasrikas5336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rikasrikas5336" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rrikas341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rrikas341" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rikasm2m2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rikasm2m2b" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
-- 🎓 Computer Science Undergraduate
-- 🤖 Passionate about AI & Machine Learning
-- 🔐 Exploring Cybersecurity with AI
-- 🌱 Currently learning secure intelligent systems
-- 🤝 Open to collaboration
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikasmhd&show_icons=true&locale=en&layout=compact" alt="rikasmhd" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikasmhd&show_icons=true&locale=en" alt="rikasmhd" /></p>
 
-## 💡 Interests
-- Machine Learning & Deep Learning
-- Cybersecurity & Digital Forensics
-- DevOps & Debugging
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
-
-### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,angular,git,github,vscode,linux" />
-</p>
-
-### Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
-- Email: yourmail@gmail.com
-
----
-
-## 👀 Profile Views
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ✨ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rikasmhd&" alt="rikasmhd" /></p>
