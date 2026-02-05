@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Undergraduate | AI/ML Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=AI+%26+ML+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=600&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer" />
 </p>
 
 ---
@@ -40,32 +40,32 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=RikasMhd&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RikasMhd&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RikasMhd&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=RikasMhd&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/RikasMhd/RikasMhd/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
