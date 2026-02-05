@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rikas</h1>
 <h3 align="center">Computer Science Undergraduate || Interesting on AI/ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikasmhd&label=Profile%20views&color=0e75b6&style=flat" alt="rikasmhd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikasmhd" alt="rikasmhd" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📝 I regularly write articles on [https://medium.com/@rrikas341](https://medium.com/@rrikas341)
 
 - 📫 How to reach me **rrikas341@gmail.com || +94 778 741 74**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
