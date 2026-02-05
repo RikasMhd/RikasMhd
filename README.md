@@ -51,24 +51,22 @@
 
 ## 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RikasMhd&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RikasMhd&theme=tokyo-night" alt="RikasMhd's GitHub Activity Graph" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RikasMhd&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RikasMhd&theme=tokyonight&row=1&column=6" alt="RikasMhd's GitHub Trophies" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-<img src="https://raw.githubusercontent.com/RikasMhd/RikasMhd/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/RikasMhd/RikasMhd/output/github-contribution-grid-snake.svg" alt="RikasMhd's GitHub Contribution Snake" />
 </p>
-
----
 
 ## 🌐 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mohammed-rikas
