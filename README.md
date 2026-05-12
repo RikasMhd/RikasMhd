@@ -28,7 +28,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,js,phpstorm" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,js,php" />
 </p>
 
 ### Frameworks & Tools
