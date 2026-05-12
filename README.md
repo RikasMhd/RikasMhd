@@ -33,7 +33,7 @@
 
 ### Frameworks & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,antigravity" />
 </p>
 
 ---
